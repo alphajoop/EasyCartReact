@@ -6,10 +6,10 @@ function Header() {
   const { cart } = useContext(CartContext);
 
   return (
-    <header className="bg-white dark:bg-gray-950 shadow-sm py-4 px-6">
+    <header className="bg-white shadow-sm py-4 px-6">
       <div className="flex items-center justify-between">
         <Link to={'/'}>
-          <h1 className="text-2xl font-bold">Ndarboutik</h1>
+          <h1 className="text-2xl font-bold">EasyCartReact</h1>
         </Link>
         <div className="flex items-center">
           <Link className="flex items-center" to={'cart'}>
@@ -18,7 +18,7 @@ function Header() {
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
-              className="h-6 w-6 text-gray-600 dark:text-gray-300"
+              className="h-6 w-6 text-gray-950"
             >
               <path
                 strokeLinecap="round"
