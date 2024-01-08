@@ -11,10 +11,6 @@ Un projet de composant panier développé avec React.js et stylisé avec Tailwin
 
 ## Installation
 
-Expliquez ici comment les utilisateurs peuvent installer et exécuter votre application localement. Incluez toutes les dépendances nécessaires.
-
-## Utilisation
-
 1. Clonez le dépôt GitHub sur votre machine locale :
 
 ```bash
